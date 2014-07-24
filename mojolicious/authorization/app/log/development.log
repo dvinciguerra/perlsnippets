@@ -1,0 +1,1240 @@
+[Thu Jul 24 14:08:10 2014] [info] Listening at "http://*:3000".
+[Thu Jul 24 14:11:46 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 14:11:46 2014] [debug] GET "/".
+[Thu Jul 24 14:11:46 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:11:46 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:11:46 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:11:46 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:11:46 2014] [debug] 404 Not Found (0.052918s, 18.897/s).
+[Thu Jul 24 14:12:31 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 14:12:31 2014] [debug] GET "/".
+[Thu Jul 24 14:12:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:31 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:31 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:31 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:31 2014] [debug] 404 Not Found (0.051638s, 19.366/s).
+[Thu Jul 24 14:12:32 2014] [debug] GET "/".
+[Thu Jul 24 14:12:32 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:32 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:32 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:32 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:32 2014] [debug] 404 Not Found (0.015937s, 62.747/s).
+[Thu Jul 24 14:12:33 2014] [debug] GET "/".
+[Thu Jul 24 14:12:33 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:33 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:33 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:33 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:33 2014] [debug] 404 Not Found (0.016210s, 61.690/s).
+[Thu Jul 24 14:12:33 2014] [debug] GET "/".
+[Thu Jul 24 14:12:33 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:33 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:33 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:33 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:33 2014] [debug] 404 Not Found (0.020770s, 48.146/s).
+[Thu Jul 24 14:12:34 2014] [debug] GET "/".
+[Thu Jul 24 14:12:34 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:34 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:34 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:34 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:34 2014] [debug] 404 Not Found (0.018640s, 53.648/s).
+[Thu Jul 24 14:12:34 2014] [debug] GET "/".
+[Thu Jul 24 14:12:34 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:34 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:34 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:34 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:34 2014] [debug] 404 Not Found (0.014903s, 67.101/s).
+[Thu Jul 24 14:12:34 2014] [debug] GET "/".
+[Thu Jul 24 14:12:34 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:34 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:34 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:34 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:34 2014] [debug] 404 Not Found (0.017279s, 57.874/s).
+[Thu Jul 24 14:12:35 2014] [debug] GET "/".
+[Thu Jul 24 14:12:35 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:12:35 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:12:35 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:12:35 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:12:35 2014] [debug] 404 Not Found (0.019861s, 50.350/s).
+[Thu Jul 24 14:14:34 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 14:14:34 2014] [debug] GET "/".
+[Thu Jul 24 14:14:34 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:14:34 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:14:34 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:14:34 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:14:34 2014] [debug] 404 Not Found (0.060601s, 16.501/s).
+[Thu Jul 24 14:14:35 2014] [debug] GET "/".
+[Thu Jul 24 14:14:35 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:14:35 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:14:35 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:14:35 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:14:35 2014] [debug] 404 Not Found (0.019797s, 50.513/s).
+[Thu Jul 24 14:14:35 2014] [debug] GET "/".
+[Thu Jul 24 14:14:35 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:14:35 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:14:35 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:14:35 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:14:36 2014] [debug] 404 Not Found (0.021614s, 46.266/s).
+[Thu Jul 24 14:14:36 2014] [debug] GET "/".
+[Thu Jul 24 14:14:36 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:14:36 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:14:36 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:14:36 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:14:36 2014] [debug] 404 Not Found (0.021566s, 46.369/s).
+[Thu Jul 24 14:14:36 2014] [debug] GET "/".
+[Thu Jul 24 14:14:36 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:14:36 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:14:36 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:14:36 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:14:36 2014] [debug] 404 Not Found (0.021475s, 46.566/s).
+[Thu Jul 24 14:14:36 2014] [debug] GET "/".
+[Thu Jul 24 14:14:36 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 14:14:36 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 14:14:36 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 14:14:36 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 14:14:36 2014] [debug] 404 Not Found (0.016120s, 62.035/s).
+[Thu Jul 24 14:17:36 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.009136s, 109.457/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.001318s, 758.725/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.001322s, 756.430/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.001332s, 750.751/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.001377s, 726.216/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.002019s, 495.295/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.001796s, 556.793/s).
+[Thu Jul 24 14:17:36 2014] [debug] GET "/".
+[Thu Jul 24 14:17:36 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:17:36 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "home/index.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 14:17:36 2014] [debug] 200 OK (0.001168s, 856.164/s).
+[Thu Jul 24 14:54:12 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 14:54:12 2014] [debug] GET "/".
+[Thu Jul 24 14:54:12 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 14:54:12 2014] [debug] Action not found in controller.
+[Thu Jul 24 14:54:12 2014] [debug] Rendering template "home/index.html.ep".
+[Thu Jul 24 14:54:12 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 14:54:12 2014] [debug] 200 OK (0.012345s, 81.004/s).
+[Thu Jul 24 18:34:52 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 18:34:52 2014] [debug] GET "/common".
+[Thu Jul 24 18:34:52 2014] [debug] Routing to a callback.
+[Thu Jul 24 18:34:52 2014] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jul 24 18:35:04 2014] [info] Listening at "http://*:3000".
+[Thu Jul 24 18:35:19 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 18:35:19 2014] [debug] GET "/common".
+[Thu Jul 24 18:35:19 2014] [debug] Routing to a callback.
+[Thu Jul 24 18:35:19 2014] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jul 24 18:35:34 2014] [debug] Inactivity timeout.
+[Thu Jul 24 18:35:34 2014] [debug] GET "/common".
+[Thu Jul 24 18:35:34 2014] [debug] Routing to a callback.
+[Thu Jul 24 18:35:34 2014] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jul 24 18:35:50 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 18:35:50 2014] [debug] GET "/common".
+[Thu Jul 24 18:35:50 2014] [debug] Routing to a callback.
+[Thu Jul 24 18:35:50 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "common".
+[Thu Jul 24 18:35:50 2014] [debug] Rendering template "home/common.html.ep".
+[Thu Jul 24 18:35:50 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 18:35:50 2014] [debug] 200 OK (0.012759s, 78.376/s).
+[Thu Jul 24 19:07:20 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:07:20 2014] [debug] GET "/login".
+[Thu Jul 24 19:07:20 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:07:21 2014] [debug] Rendering template "home/login.html.ep".
+[Thu Jul 24 19:07:21 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:07:21 2014] [debug] 200 OK (0.641873s, 1.558/s).
+[Thu Jul 24 19:07:21 2014] [debug] GET "/login".
+[Thu Jul 24 19:07:21 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:07:21 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:07:21 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:07:21 2014] [debug] 200 OK (0.007567s, 132.153/s).
+[Thu Jul 24 19:07:21 2014] [debug] GET "/".
+[Thu Jul 24 19:07:21 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "index".
+[Thu Jul 24 19:07:21 2014] [debug] Action not found in controller.
+[Thu Jul 24 19:07:21 2014] [debug] Rendering template "home/index.html.ep".
+[Thu Jul 24 19:07:21 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:07:21 2014] [debug] 200 OK (0.003647s, 274.198/s).
+[Thu Jul 24 19:07:26 2014] [debug] GET "/login".
+[Thu Jul 24 19:07:26 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:07:26 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:07:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:07:26 2014] [debug] 200 OK (0.012704s, 78.715/s).
+[Thu Jul 24 19:07:32 2014] [debug] POST "/login".
+[Thu Jul 24 19:07:32 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:07:32 2014] [debug] 302 Found (0.080050s, 12.492/s).
+[Thu Jul 24 19:07:32 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:07:32 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:07:32 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:07:32 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:07:32 2014] [error] DBIx::Class::Storage::DBI::_prepare_sth(): DBI Exception: DBD::SQLite::db prepare_cached failed: no such column: columns [for Statement "SELECT role_privileges.id, role_privileges.role_id, role_privileges.privilege_id FROM role me  JOIN role_privilege role_privileges ON role_privileges.role_id = me.id WHERE ( columns = ? )"] at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 29
+24:               $self->schema('Role')
+25:               ->search_related( 'role_privileges',
+26:                {columns => qw/id_privilege/}, { role_id => { IN => $self->session('roles') || [] } } );
+27:             
+28:             my $menu = 
+29:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+30: 
+31:             return $menu;
+32:         }
+33:     );
+34: 
+
+[Thu Jul 24 19:07:32 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:07:32 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:07:32 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:07:32 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:07:32 2014] [debug] 500 Internal Server Error (0.075083s, 13.319/s).
+[Thu Jul 24 19:12:59 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:12:59 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:12:59 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:12:59 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:12:59 2014] [error] DBIx::Class::Storage::DBI::_prepare_sth(): DBI Exception: DBD::SQLite::db prepare_cached failed: no such column: columns [for Statement "SELECT role_privileges.id, role_privileges.role_id, role_privileges.privilege_id FROM role me  JOIN role_privilege role_privileges ON role_privileges.role_id = me.id WHERE ( columns = ? )"] at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 29
+24:               $self->schema('RolePrivilege')
+25:               ->search({columns => qw/id_privilege/, role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu;
+31:         }
+32:     );
+33: 
+34:     $self->plugin(
+
+[Thu Jul 24 19:12:59 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:12:59 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:12:59 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:12:59 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:12:59 2014] [debug] 500 Internal Server Error (0.046467s, 21.521/s).
+[Thu Jul 24 19:13:00 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:13:17 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:13:17 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:13:17 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:13:17 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:13:17 2014] [error] DBIx::Class::Storage::DBI::_prepare_sth(): DBI Exception: DBD::SQLite::db prepare_cached failed: no such column: columns [for Statement "SELECT me.id, me.role_id, me.privilege_id FROM role_privilege me WHERE ( ( columns = ? AND role_id IN ( ? ) ) )"] at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 28
+23:             my $list =
+24:               $self->schema('RolePrivilege')
+25:               ->search({column => [qw/id_privilege/], role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu;
+31:         }
+32:     );
+33: 
+
+[Thu Jul 24 19:13:17 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:13:17 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:13:17 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:13:17 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:13:17 2014] [debug] 500 Internal Server Error (0.218245s, 4.582/s).
+[Thu Jul 24 19:13:17 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:13:35 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:13:35 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:13:35 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:13:35 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:13:35 2014] [error] DBIx::Class::Storage::DBI::_prepare_sth(): DBI Exception: DBD::SQLite::db prepare_cached failed: no such column: column [for Statement "SELECT me.id, me.role_id, me.privilege_id FROM role_privilege me WHERE ( ( column = ? AND role_id IN ( ? ) ) )"] at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 28
+23:             my $list =
+24:               $self->schema('RolePrivilege')
+25:               ->search( role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu;
+31:         }
+32:     );
+33: 
+
+[Thu Jul 24 19:13:35 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:13:35 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:13:35 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:13:35 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:13:35 2014] [debug] 500 Internal Server Error (0.213147s, 4.692/s).
+[Thu Jul 24 19:15:54 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:15:58 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:15:58 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:15:58 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:15:58 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:15:58 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:15:58 2014] [debug] 200 OK (0.215001s, 4.651/s).
+[Thu Jul 24 19:16:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:16:42 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:16:43 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:16:43 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:16:43 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:16:43 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper map { $_->name } dashboard_menu->all
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:16:43 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:16:43 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:16:43 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:16:43 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:16:43 2014] [debug] 500 Internal Server Error (0.224479s, 4.455/s).
+[Thu Jul 24 19:16:44 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:16:44 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:16:44 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:16:44 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:16:44 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper map { $_->name } dashboard_menu->all
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:16:44 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:16:44 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:16:44 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:16:44 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:16:44 2014] [debug] 500 Internal Server Error (0.040464s, 24.713/s).
+[Thu Jul 24 19:16:45 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:16:45 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:16:45 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:16:45 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:16:45 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper map { $_->name } dashboard_menu->all
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:16:45 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:16:45 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:16:45 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:16:45 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:16:45 2014] [debug] 500 Internal Server Error (0.050423s, 19.832/s).
+[Thu Jul 24 19:16:45 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:16:46 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:16:46 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:16:46 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:16:46 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper map { $_->name } dashboard_menu->all
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:16:46 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:16:46 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:16:46 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:16:46 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:16:46 2014] [debug] 500 Internal Server Error (0.040029s, 24.982/s).
+[Thu Jul 24 19:17:27 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:17:27 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:17:27 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:17:27 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:17:27 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper map { $_->name } dashboard_menu->all
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:17:27 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:17:27 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:17:27 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:17:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:17:27 2014] [debug] 500 Internal Server Error (0.051199s, 19.532/s).
+[Thu Jul 24 19:17:28 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:17:28 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:17:28 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:17:28 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:17:28 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:17:28 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper ref( map { $_->name } dashboard_menu->all )
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:17:28 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:17:28 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:17:28 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:17:28 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:17:28 2014] [debug] 500 Internal Server Error (0.220889s, 4.527/s).
+[Thu Jul 24 19:17:29 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:17:29 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:17:29 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:17:29 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:17:29 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper ref( map { $_->name } dashboard_menu->all )
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:17:29 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:17:29 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:17:29 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:17:29 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:17:29 2014] [debug] 500 Internal Server Error (0.046297s, 21.600/s).
+[Thu Jul 24 19:17:30 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:17:30 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:17:30 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:17:30 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:17:30 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     %= dumper ref( map { $_->name } dashboard_menu->all )
+10:     <li><a href="#">Lorem</a></li>
+11: </ul>
+
+[Thu Jul 24 19:17:30 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:17:30 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:17:30 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:17:30 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:17:30 2014] [debug] 500 Internal Server Error (0.040415s, 24.743/s).
+[Thu Jul 24 19:18:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:18:11 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:11 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:11 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:11 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:11 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:11 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:11 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:11 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:11 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:11 2014] [debug] 500 Internal Server Error (0.218450s, 4.578/s).
+[Thu Jul 24 19:18:12 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:12 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:12 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:12 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:12 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:12 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:12 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:12 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:12 2014] [debug] 500 Internal Server Error (0.047009s, 21.273/s).
+[Thu Jul 24 19:18:13 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:13 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:13 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:13 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:13 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:13 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:13 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:13 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:13 2014] [debug] 500 Internal Server Error (0.042353s, 23.611/s).
+[Thu Jul 24 19:18:14 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:14 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:14 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:14 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:14 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:14 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:14 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:14 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:14 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:14 2014] [debug] 500 Internal Server Error (0.035564s, 28.118/s).
+[Thu Jul 24 19:18:15 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:15 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:15 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:15 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:15 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:15 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:15 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:15 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:15 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:15 2014] [debug] 500 Internal Server Error (0.052921s, 18.896/s).
+[Thu Jul 24 19:18:15 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:15 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:15 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:15 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:15 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:15 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:15 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:15 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:15 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:15 2014] [debug] 500 Internal Server Error (0.054361s, 18.396/s).
+[Thu Jul 24 19:18:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:18:23 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:23 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:23 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:23 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:23 2014] [error] Can't locate object method "name" via package "DBIx::Class::ResultSet" at template home/dashboard.html.ep line 10.
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:23 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:23 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:23 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:23 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:23 2014] [debug] 500 Internal Server Error (0.204505s, 4.890/s).
+[Thu Jul 24 19:18:24 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:24 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:24 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:24 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:24 2014] [error] Can't locate object method "name" via package "DBIx::Class::ResultSet" at template home/dashboard.html.ep line 10.
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:24 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:24 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:24 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:24 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:24 2014] [debug] 500 Internal Server Error (0.045759s, 21.854/s).
+[Thu Jul 24 19:18:25 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:25 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:25 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:25 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:25 2014] [error] Can't locate object method "name" via package "DBIx::Class::ResultSet" at template home/dashboard.html.ep line 10.
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:18:25 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:25 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:25 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:25 2014] [debug] 500 Internal Server Error (0.040755s, 24.537/s).
+[Thu Jul 24 19:18:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:18:45 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:45 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:45 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:45 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:45 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 30
+25:               ->search({ role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu->all;
+31:         }
+32:     );
+33: 
+34:     $self->plugin(
+35:         'Authorization' => {
+
+[Thu Jul 24 19:18:45 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:45 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:45 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:45 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:45 2014] [debug] 500 Internal Server Error (0.221975s, 4.505/s).
+[Thu Jul 24 19:18:46 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:46 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:46 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:46 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:46 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 30
+25:               ->search({ role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu->all;
+31:         }
+32:     );
+33: 
+34:     $self->plugin(
+35:         'Authorization' => {
+
+[Thu Jul 24 19:18:46 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:46 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:46 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:46 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:46 2014] [debug] 500 Internal Server Error (0.063540s, 15.738/s).
+[Thu Jul 24 19:18:47 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:47 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:47 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:47 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:47 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 30
+25:               ->search({ role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu->all;
+31:         }
+32:     );
+33: 
+34:     $self->plugin(
+35:         'Authorization' => {
+
+[Thu Jul 24 19:18:47 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:47 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:47 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:47 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:47 2014] [debug] 500 Internal Server Error (0.045948s, 21.764/s).
+[Thu Jul 24 19:18:48 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:18:48 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:18:48 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:18:48 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:18:48 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 30
+25:               ->search({ role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             my $menu = 
+28:               $self->schema('Menu')->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29: 
+30:             return $menu->all;
+31:         }
+32:     );
+33: 
+34:     $self->plugin(
+35:         'Authorization' => {
+
+[Thu Jul 24 19:18:48 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:18:48 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:18:48 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:18:48 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:18:48 2014] [debug] 500 Internal Server Error (0.063397s, 15.774/s).
+[Thu Jul 24 19:23:42 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:23:42 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:23:42 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:23:42 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:23:42 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:23:42 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:23:42 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:23:42 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:23:42 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:23:42 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:23:42 2014] [debug] 500 Internal Server Error (0.227404s, 4.397/s).
+[Thu Jul 24 19:23:44 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:23:44 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:23:44 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:23:44 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:23:44 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at template home/dashboard.html.ep line 9
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( dashboard_menu->all ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:23:44 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:23:44 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:23:44 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:23:44 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:23:44 2014] [debug] 500 Internal Server Error (0.044810s, 22.316/s).
+[Thu Jul 24 19:24:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:24:10 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:10 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:10 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:10 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:10 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{dashboard_menu} ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:10 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:10 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:10 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:10 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:10 2014] [debug] 500 Internal Server Error (0.213433s, 4.685/s).
+[Thu Jul 24 19:24:12 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:12 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:12 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:12 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:12 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{dashboard_menu} ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:12 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:12 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:12 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:12 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:12 2014] [debug] 500 Internal Server Error (0.039773s, 25.143/s).
+[Thu Jul 24 19:24:13 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:13 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:13 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:13 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:13 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{dashboard_menu} ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:13 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:13 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:13 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:13 2014] [debug] 500 Internal Server Error (0.040430s, 24.734/s).
+[Thu Jul 24 19:24:13 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:13 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:13 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:13 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:13 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{dashboard_menu} ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:13 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:13 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:13 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:13 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:13 2014] [debug] 500 Internal Server Error (0.045958s, 21.759/s).
+[Thu Jul 24 19:24:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:24:23 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:24 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:24 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:24 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:24 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{ dashboard_menu } ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:24 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:24 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:24 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:24 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:24 2014] [debug] 500 Internal Server Error (0.216011s, 4.629/s).
+[Thu Jul 24 19:24:24 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:25 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:25 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:25 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:25 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{ dashboard_menu } ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:25 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:25 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:25 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:25 2014] [debug] 500 Internal Server Error (0.043334s, 23.077/s).
+[Thu Jul 24 19:24:25 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:25 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:25 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:25 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:25 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{ dashboard_menu } ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:25 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:25 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:25 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:25 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:25 2014] [debug] 500 Internal Server Error (0.034345s, 29.116/s).
+[Thu Jul 24 19:24:26 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:26 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:26 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:26 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:26 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{ dashboard_menu } ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:26 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:26 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:26 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:26 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:26 2014] [debug] 500 Internal Server Error (0.038125s, 26.230/s).
+[Thu Jul 24 19:24:27 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:27 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:27 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:27 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:27 2014] [error] Global symbol "@dashboard_menu" requires explicit package name at template home/dashboard.html.ep line 9.
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( @{ dashboard_menu } ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:27 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:27 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:27 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:27 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:27 2014] [debug] 500 Internal Server Error (0.041574s, 24.053/s).
+[Thu Jul 24 19:24:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:24:40 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:40 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:40 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:40 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:24:40 2014] [error] syntax error at template home/dashboard.html.ep line 9, at EOF
+Global symbol "$row" requires explicit package name at template home/dashboard.html.ep line 10.
+syntax error at template home/dashboard.html.ep line 12, near "} 
+$_M "
+Global symbol "$_M" requires explicit package name at template home/dashboard.html.ep line 12.
+Global symbol "$_M" requires explicit package name at template home/dashboard.html.ep line 12.
+syntax error at template home/dashboard.html.ep line 12, near "$_M }"
+Unmatched right curly bracket at template home/dashboard.html.ep line 12, at end of line
+4: <h2>Dashboard</h2>
+5: 
+6: <p><strong>Menu</strong></p>
+7: 
+8: <ul>
+9:     % for my $row ( $self->dashboard_menu } ){
+10:         <li><a href="#"><%= $row->name %></a></li>
+11:     % }
+12: </ul>
+
+[Thu Jul 24 19:24:40 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:24:40 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:24:40 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:24:40 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:24:40 2014] [debug] 500 Internal Server Error (0.195362s, 5.119/s).
+[Thu Jul 24 19:24:59 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:24:59 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:24:59 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:24:59 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:24:59 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:25:00 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 28
+23:             my $list =
+24:               $self->schema('RolePrivilege')
+25:               ->search({ role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             return $self->schema('Menu')
+28:                 ->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29:         }
+30:     );
+31: 
+32:     $self->plugin(
+33:         'Authorization' => {
+
+[Thu Jul 24 19:25:00 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:25:00 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:25:00 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:25:00 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:25:00 2014] [debug] 500 Internal Server Error (0.239695s, 4.172/s).
+[Thu Jul 24 19:25:01 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:25:01 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:25:01 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:25:01 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:25:01 2014] [error] SQL::Abstract::puke(): [SQL::Abstract::__ANON__] Fatal: unexpected operator '2' with undef operand at /home/dvinciguerra/Desktop/perlsnippets/mojolicious/authorization/app/lib/MyApp.pm line 28
+23:             my $list =
+24:               $self->schema('RolePrivilege')
+25:               ->search({ role_id => { IN => $self->session('roles') || [] } } );
+26:             
+27:             return $self->schema('Menu')
+28:                 ->search({ privilege_id => {IN => map{ $_->privilege_id } $list->all} });
+29:         }
+30:     );
+31: 
+32:     $self->plugin(
+33:         'Authorization' => {
+
+[Thu Jul 24 19:25:01 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Jul 24 19:25:01 2014] [debug] Template "exception.html.ep" not found.
+[Thu Jul 24 19:25:01 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:25:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:25:01 2014] [debug] 500 Internal Server Error (0.038144s, 26.216/s).
+[Thu Jul 24 19:26:13 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:26:13 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:26:13 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:26:13 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:26:13 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:26:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:26:13 2014] [debug] 200 OK (0.160424s, 6.233/s).
+[Thu Jul 24 19:26:32 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:26:32 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:26:32 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:26:32 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:26:32 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:26:32 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:26:32 2014] [debug] 200 OK (0.171467s, 5.832/s).
+[Thu Jul 24 19:27:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:27:01 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:01 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:01 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:01 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:01 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:27:01 2014] [debug] 200 OK (0.171033s, 5.847/s).
+[Thu Jul 24 19:27:02 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:02 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:02 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:02 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:02 2014] [debug] 200 OK (0.028311s, 35.322/s).
+[Thu Jul 24 19:27:02 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:02 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:02 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:02 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:02 2014] [debug] 200 OK (0.033255s, 30.071/s).
+[Thu Jul 24 19:27:04 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:04 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:04 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:04 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:04 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:04 2014] [debug] 200 OK (0.027283s, 36.653/s).
+[Thu Jul 24 19:27:05 2014] [debug] GET "/common".
+[Thu Jul 24 19:27:05 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:05 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "common".
+[Thu Jul 24 19:27:05 2014] [debug] Rendering template "home/common.html.ep".
+[Thu Jul 24 19:27:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:05 2014] [debug] 200 OK (0.018834s, 53.095/s).
+[Thu Jul 24 19:27:08 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:08 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:08 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:08 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:08 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:08 2014] [debug] 200 OK (0.029373s, 34.045/s).
+[Thu Jul 24 19:27:39 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:27:39 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:39 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:39 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:39 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:39 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:27:39 2014] [debug] 200 OK (0.166924s, 5.991/s).
+[Thu Jul 24 19:27:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:27:40 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:40 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:40 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:40 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:27:40 2014] [debug] 200 OK (0.171948s, 5.816/s).
+[Thu Jul 24 19:27:44 2014] [debug] GET "/login".
+[Thu Jul 24 19:27:44 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:27:44 2014] [debug] Rendering template "home/login.html.ep".
+[Thu Jul 24 19:27:44 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:27:44 2014] [debug] 200 OK (0.018524s, 53.984/s).
+[Thu Jul 24 19:27:51 2014] [debug] POST "/login".
+[Thu Jul 24 19:27:51 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:27:51 2014] [debug] 302 Found (0.013922s, 71.829/s).
+[Thu Jul 24 19:27:51 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:27:51 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:27:51 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:27:51 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:27:51 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:51 2014] [debug] 200 OK (0.024968s, 40.051/s).
+[Thu Jul 24 19:27:56 2014] [debug] GET "/login".
+[Thu Jul 24 19:27:56 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:27:56 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:27:56 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:27:56 2014] [debug] 200 OK (0.012508s, 79.949/s).
+[Thu Jul 24 19:28:00 2014] [debug] POST "/login".
+[Thu Jul 24 19:28:00 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:28:00 2014] [debug] 302 Found (0.015602s, 64.094/s).
+[Thu Jul 24 19:28:00 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:28:00 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:28:00 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:28:00 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:28:00 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:28:00 2014] [debug] 200 OK (0.025571s, 39.107/s).
+[Thu Jul 24 19:28:03 2014] [debug] GET "/login".
+[Thu Jul 24 19:28:03 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:28:03 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:28:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:28:03 2014] [debug] 200 OK (0.011698s, 85.485/s).
+[Thu Jul 24 19:30:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:30:18 2014] [debug] GET "/login".
+[Thu Jul 24 19:30:18 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:30:18 2014] [debug] Rendering template "home/login.html.ep".
+[Thu Jul 24 19:30:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:30:18 2014] [debug] 200 OK (0.155380s, 6.436/s).
+[Thu Jul 24 19:30:19 2014] [debug] GET "/login".
+[Thu Jul 24 19:30:19 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:30:19 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:30:19 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:30:19 2014] [debug] 200 OK (0.011834s, 84.502/s).
+[Thu Jul 24 19:30:49 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:30:49 2014] [debug] GET "/login".
+[Thu Jul 24 19:30:49 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:30:49 2014] [debug] Rendering template "home/login.html.ep".
+[Thu Jul 24 19:30:49 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:30:49 2014] [debug] 200 OK (0.153546s, 6.513/s).
+[Thu Jul 24 19:30:49 2014] [debug] GET "/login".
+[Thu Jul 24 19:30:49 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:30:49 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:30:49 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:30:49 2014] [debug] 200 OK (0.013730s, 72.833/s).
+[Thu Jul 24 19:38:14 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:38:14 2014] [debug] POST "/login".
+[Thu Jul 24 19:38:14 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:38:14 2014] [debug] 302 Found (0.154400s, 6.477/s).
+[Thu Jul 24 19:38:14 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:14 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:14 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:14 2014] [debug] Rendering template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:14 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:38:14 2014] [debug] 200 OK (0.031920s, 31.328/s).
+[Thu Jul 24 19:38:16 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:16 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:16 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:16 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:16 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:16 2014] [debug] 200 OK (0.027983s, 35.736/s).
+[Thu Jul 24 19:38:18 2014] [debug] GET "/common".
+[Thu Jul 24 19:38:18 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:18 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "common".
+[Thu Jul 24 19:38:18 2014] [debug] Rendering template "home/common.html.ep".
+[Thu Jul 24 19:38:18 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:18 2014] [debug] 200 OK (0.020468s, 48.857/s).
+[Thu Jul 24 19:38:19 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:19 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:19 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:19 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:19 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:19 2014] [debug] 200 OK (0.031010s, 32.248/s).
+[Thu Jul 24 19:38:20 2014] [debug] GET "/login".
+[Thu Jul 24 19:38:20 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:38:20 2014] [debug] Rendering template "home/login.html.ep".
+[Thu Jul 24 19:38:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:38:20 2014] [debug] 200 OK (0.014564s, 68.662/s).
+[Thu Jul 24 19:38:26 2014] [debug] POST "/login".
+[Thu Jul 24 19:38:26 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:38:26 2014] [debug] 302 Found (0.012911s, 77.453/s).
+[Thu Jul 24 19:38:26 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:26 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:26 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:26 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:26 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:26 2014] [debug] 200 OK (0.030594s, 32.686/s).
+[Thu Jul 24 19:38:28 2014] [debug] GET "/common".
+[Thu Jul 24 19:38:28 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:28 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "common".
+[Thu Jul 24 19:38:28 2014] [debug] Rendering cached template "home/common.html.ep".
+[Thu Jul 24 19:38:28 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:28 2014] [debug] 200 OK (0.016865s, 59.294/s).
+[Thu Jul 24 19:38:30 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:30 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:30 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:30 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:30 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:30 2014] [debug] 200 OK (0.034032s, 29.384/s).
+[Thu Jul 24 19:38:31 2014] [debug] GET "/client-only".
+[Thu Jul 24 19:38:31 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:31 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "client_only".
+[Thu Jul 24 19:38:31 2014] [debug] Rendering template "home/client_only.html.ep".
+[Thu Jul 24 19:38:31 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:31 2014] [debug] 200 OK (0.024077s, 41.533/s).
+[Thu Jul 24 19:38:34 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:34 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:34 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:34 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:34 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:34 2014] [debug] 200 OK (0.026673s, 37.491/s).
+[Thu Jul 24 19:38:37 2014] [debug] GET "/client-only".
+[Thu Jul 24 19:38:37 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:37 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "client_only".
+[Thu Jul 24 19:38:37 2014] [debug] Rendering cached template "home/client_only.html.ep".
+[Thu Jul 24 19:38:37 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:37 2014] [debug] 200 OK (0.021580s, 46.339/s).
+[Thu Jul 24 19:38:41 2014] [debug] GET "/admin-only".
+[Thu Jul 24 19:38:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jul 24 19:38:41 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Jul 24 19:38:41 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Jul 24 19:38:41 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Jul 24 19:38:42 2014] [debug] 404 Not Found (0.086838s, 11.516/s).
+[Thu Jul 24 19:38:52 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:52 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:52 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:52 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:52 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:52 2014] [debug] 200 OK (0.033917s, 29.484/s).
+[Thu Jul 24 19:38:53 2014] [debug] GET "/login".
+[Thu Jul 24 19:38:53 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:38:53 2014] [debug] Rendering cached template "home/login.html.ep".
+[Thu Jul 24 19:38:53 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:53 2014] [debug] 200 OK (0.014964s, 66.827/s).
+[Thu Jul 24 19:38:58 2014] [debug] POST "/login".
+[Thu Jul 24 19:38:58 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:38:58 2014] [debug] 302 Found (0.019342s, 51.701/s).
+[Thu Jul 24 19:38:58 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:38:58 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:38:58 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:38:58 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:38:58 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:38:58 2014] [debug] 200 OK (0.022919s, 43.632/s).
+[Thu Jul 24 19:39:02 2014] [debug] GET "/admin-only".
+[Thu Jul 24 19:39:02 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:39:02 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "admin_only".
+[Thu Jul 24 19:39:02 2014] [debug] Rendering template "home/admin_only.html.ep".
+[Thu Jul 24 19:39:02 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:39:02 2014] [debug] 200 OK (0.017922s, 55.797/s).
+[Thu Jul 24 19:39:05 2014] [debug] GET "/dashboard".
+[Thu Jul 24 19:39:05 2014] [debug] Routing to a callback.
+[Thu Jul 24 19:39:05 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "dashboard".
+[Thu Jul 24 19:39:05 2014] [debug] Rendering cached template "home/dashboard.html.ep".
+[Thu Jul 24 19:39:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jul 24 19:39:05 2014] [debug] 200 OK (0.039151s, 25.542/s).

@@ -1,0 +1,4 @@
+% layout 'default';
+
+<h2>Common Page</h2>
+<p><a href="/dashboard">go to dashboard home</a></p>

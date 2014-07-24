@@ -1,0 +1,6 @@
+% layout 'default';
+
+<h2>Admin Only Page</h2>
+
+<p>Only user with admin role can access this page</p>
+<a href="/dashboard">back to dashboard home</a>

@@ -1,0 +1,19 @@
+% layout 'default';
+
+<h2>Login Page</h2>
+%= form_for '', method => 'post' => begin
+    <p>Email<br><input type="text" name="user"></p>
+    <p>Pass<br><input type="password" name="pass"></p>
+    <p><button type="submit">Login</button></p>
+% end
+%= eval{ $message } || ''
+
+<p>
+    <h4>Enabled Test Logins</h4>
+    <ul>
+        <li>test@test.com <small>(default)</small></li>
+        <li>client@test.com <small>(default + client profile)</small></li>
+        <li>admin@test.com <small>(default + admin profile)</small></li>
+    </ul>
+    * all password is 'test'
+</p>
