@@ -1238,3 +1238,9 @@ Unmatched right curly bracket at template home/dashboard.html.ep line 12, at end
 [Thu Jul 24 19:39:05 2014] [debug] Rendering cached template "home/dashboard.html.ep".
 [Thu Jul 24 19:39:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
 [Thu Jul 24 19:39:05 2014] [debug] 200 OK (0.039151s, 25.542/s).
+[Thu Jul 24 19:58:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 24 19:58:18 2014] [debug] GET "/login".
+[Thu Jul 24 19:58:18 2014] [debug] Routing to controller "MyApp::Controller::Home" and action "login".
+[Thu Jul 24 19:58:18 2014] [debug] Rendering template "home/login.html.ep".
+[Thu Jul 24 19:58:19 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jul 24 19:58:19 2014] [debug] 200 OK (0.639368s, 1.564/s).
