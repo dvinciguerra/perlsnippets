@@ -1,6 +1,0 @@
-% layout 'default';
-
-<h2>Client Only Page</h2>
-
-<p>Only user with client role can access this page</p>
-<a href="/dashboard">back to dashboard home</a>

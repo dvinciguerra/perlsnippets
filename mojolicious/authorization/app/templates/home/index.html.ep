@@ -1,4 +1,0 @@
-% layout 'default';
-
-<h2>Index Page</h2>
-<p><a href="/login">go to login page</a></p>
